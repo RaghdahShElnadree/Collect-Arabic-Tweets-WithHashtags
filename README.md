@@ -1,4 +1,4 @@
-## Collect Arabic Tweets With Hashrtags
+## Collect Arabic Tweets With Hash tags
 
 Collect tweets (tweets corpus) using Twitter API. Collection can be based on hashtags, keywords, geographical location. 
 
