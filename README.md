@@ -1,8 +1,6 @@
 ## Collect Arabic Tweets With Hashrtags
 
-Abstract
-
-This mini project aims to highlight the impact of social media in the Arab world, specifically Twitter’s impact on communities. For this purpose, the role of hashtags among users will be examined by investigating one particular Arabic hashtag, its purpose, and target users in a specific area in Saudi Arabia. 
+Collect tweets (tweets corpus) using Twitter API. Collection can be based on hashtags, keywords, geographical location. 
 
 collect_tweets such as :
 
